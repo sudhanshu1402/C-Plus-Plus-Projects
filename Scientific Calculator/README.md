@@ -26,10 +26,9 @@ A calculator is a portable device that helps to perform simple mathematical calc
 - Log with base 10
  
 
-## Input
+## Input:
 ![image](https://user-images.githubusercontent.com/99204211/182558343-db8edbe1-1e13-4f44-a44b-19b620d7947e.png)
 
-
-## Output
+## Output:
 ![image](https://user-images.githubusercontent.com/99204211/182558401-eff1191c-5551-4df4-bc18-cc332a3f41bb.png)
 ![image](https://user-images.githubusercontent.com/99204211/182558502-7ab1cd64-e69e-49cc-ac66-5400dbde701f.png)
