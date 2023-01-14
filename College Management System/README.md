@@ -13,10 +13,10 @@
 - Search students
 
 
-## Input
+## Input:
 ![image](https://user-images.githubusercontent.com/99204211/182363948-7878bb7a-5295-41bb-8e68-e224f24f95bb.png)
 
-## Output
+## Output:
 ![image](https://user-images.githubusercontent.com/99204211/182364609-1cfb15f2-dd6b-4135-a5a2-7e6c562019b1.png)
 ![image](https://user-images.githubusercontent.com/99204211/182364665-fa6fd637-ce2b-4900-9aaf-dd4f73e8cb71.png)
 ![image](https://user-images.githubusercontent.com/99204211/182364686-60e5cbc2-5a86-47af-bc51-5ed718fa1300.png)
